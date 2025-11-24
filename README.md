@@ -2,6 +2,10 @@
 
 A modern, offline-first web application for marking and saving your favorite locations on an interactive map. No backend, no database servers, no signup required - everything runs locally in your browser with a beautiful, professional interface.
 
+![My Favorite Places App](image/image.png)
+
+*Screenshot showing the modern interface with sidebar, photo markers, and basemap selector*
+
 ## ✨ Features
 
 ### Core Functionality
